@@ -25,6 +25,9 @@
 		</div>
 	</footer>
 	
+		
+	{event name='footer'}
+	
 	<a id="bottom"></a>
 </body>
 </html>
